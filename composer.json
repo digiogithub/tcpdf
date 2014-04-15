@@ -1,0 +1,16 @@
+{
+    "name": "atrapalo/tcpdf",
+    "description": "A custom version of TCPDF only for use within atrapalo source code",
+    "license": "MIT",
+    "type": "library",
+    "authors": [
+        {
+            "name": "Atrapalo Engineering",
+            "email": "dt@atrapalo.com"
+        }
+    ],
+    "minimum-stability": "stable",
+    "autoload": {
+        "classmap": ["src/"]
+    }
+}
